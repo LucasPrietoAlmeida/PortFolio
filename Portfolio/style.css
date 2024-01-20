@@ -532,13 +532,13 @@ footer .arriba{
 @media screen and (max-width:700px){
 
     header nav ul li a{
-        font-size: 12px;
+        font-size: 11px;
         margin: 0 5px;
         padding: 3px;
     }
 
     .inicio .contenido-banner{
-        height: 356px;
+        height: 396px;
         width: 300px;
     }
 
