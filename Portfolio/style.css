@@ -537,6 +537,11 @@ footer .arriba{
         padding: 3px;
     }
 
+    .inicio .contenido-banner{
+        height: 356px;
+        width: 300px;
+    }
+
     .sobremi .fila{
         display: block;
     }
